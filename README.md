@@ -2,6 +2,9 @@
 
 Students and parents often face difficulties when it comes to gathering detailed information about colleges, including tuition fees, eligibility criteria, scholarships, placements, and more. This application helps students find the most suitable college and course based on their academic records, interests, aptitude, and psychometric assessments. It supports decision-making for both Indian and international institutions. Using Admin Panel admin can create, edit and delete college information and assessment test questions. Students can attempt test and get college recommendations and interests using user panel.
 
+<img width="1520" height="1955" alt="image" src="https://github.com/user-attachments/assets/df20ee20-4d23-4b4e-bcaf-4cddefc28da1" />
+
+
 ### Video Walk-through: [Video](https://drive.google.com/file/d/1YPC3bd_QcxWHBxooMfEnb_1DhO3esGEr/view)
 
 #  Setup & Installation Guide
